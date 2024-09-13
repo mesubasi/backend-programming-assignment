@@ -5,3 +5,5 @@ const router = express.Router();
 const queryController = require("../controllers/queryController");
 
 router.get("/queries/count/:datePrefix");
+
+module.exports = router;
