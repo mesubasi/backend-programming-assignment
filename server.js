@@ -7,7 +7,7 @@ const PORT = 3000;
 // routes
 const queryRoute = require("./routes/query");
 
-//middlewares
+//middleware
 app.use(express.json());
 app.use("/queries/count", queryRoute);
 
