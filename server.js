@@ -12,5 +12,5 @@ app.use(express.json());
 app.use("/queries/count", queryRoute);
 
 app.listen(PORT, () => {
-  console.log(`Server is running on ${PORT}`);
+  console.log(`Server listening on port ${PORT}`);
 });
