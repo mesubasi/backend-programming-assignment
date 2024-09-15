@@ -5,7 +5,8 @@
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/mesubasi/backend-programming-assignment.git .
+   git clone https://github.com/mesubasi/backend-programming-assignment.git
+   cd backend-programming-assignment
    ```
 
 2. **Install dependencies:**
