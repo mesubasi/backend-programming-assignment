@@ -24,7 +24,19 @@
 
    ```sh
    HTTP Method : GET
-   Request Url : http://localhost:3000/queries/count/2015
-   Request Url : http://localhost:3000/queries/count/2015-08-02
-   Request Url : http://localhost:3000/queries/count/2015-08-03 23:59:06
+   Request Url: http://localhost:3000/queries/count/2015
+   Response:
+   {
+    "count": 1623420
+   }
+   Request Url: http://localhost:3000/queries/count/2015-08-01
+   Response:
+   {
+    "count": 432605
+   }
+   Request Url: http://localhost:3000/queries/count/2015-08-03 23:59:06
+   Response:
+   {
+    "count": 41
+   }
    ```
