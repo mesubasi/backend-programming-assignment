@@ -6,7 +6,6 @@
 
    ```sh
    git clone https://github.com/mesubasi/posteffect.ai-backend-programming-assignment.git .
-   cd pos-app-frontend
    ```
 
 2. **Install dependencies:**
