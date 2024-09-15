@@ -19,3 +19,12 @@
    ```sh
    npm start
    ```
+
+4. **Make a request to the API (Postman etc. tools):**
+
+   ```sh
+   HTTP Method : GET
+   Request Url : http://localhost:3000/queries/count/2015
+   Request Url : http://localhost:3000/queries/count/2015-08-02
+   Request Url : http://localhost:3000/queries/count/2015-08-03 23:59:06
+   ```
