@@ -1,4 +1,4 @@
-# Posteffect.ai Backend Programming Assignment
+# Backend Programming Assignment
 
 ## Installation
 
